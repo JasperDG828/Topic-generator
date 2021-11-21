@@ -21,7 +21,8 @@ let en = {
         "If you'd be allowed to commit 1 crime without consequences, which crime would it be?",
         "Favorite serie/movie",
         "What do you hate the most about me?",
-        "50km by foot or 100km by bike?"
+        "50km by foot or 100km by bike?",
+        "What do you like the most about me?"
     ]
 }
 
@@ -48,7 +49,8 @@ let nl = {
             "Als je 1 misdaad zou mogen plegen zonder sanctie, welke zou het zijn?",
             "Favoriete serie/film",
             "Wat haat je het meest aan me?",
-            "50km te voet of 100km met de fiets?"
+            "50km te voet of 100km met de fiets?",
+            "Wat vind je leuk aan mij?"
         ]
     }
     //-------------------------------------------------------------------------//
