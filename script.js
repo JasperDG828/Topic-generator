@@ -17,7 +17,11 @@ let en = {
         "Do you have any guilty pleasure?",
         "Do you watch anime?",
         "Favorite fastfood reastaurant",
-        "Would you rather live today with technology from 2000 or live in 2050 with technology from today?"
+        "Would you rather live today with technology from 2000 or live in 2050 with technology from today?",
+        "If you'd be allowed to commit 1 crime without consequences, which crime would it be?",
+        "Favorite serie/movie",
+        "What do you hate the most about me?",
+        "50km by foot or 100km by bike?"
     ]
 }
 
@@ -40,7 +44,11 @@ let nl = {
             "Heb je een guilty pleasure?",
             "Kijk je anime?",
             "Favoriete fastfood keten",
-            "Leef je liever vandaag met technologie van het jaar 2000 of in 2050 met technologie van vandaag?"
+            "Leef je liever vandaag met technologie van het jaar 2000 of in 2050 met technologie van vandaag?",
+            "Als je 1 misdaad zou mogen plegen zonder sanctie, welke zou het zijn?",
+            "Favoriete serie/film",
+            "Wat haat je het meest aan me?",
+            "50km te voet of 100km met de fiets?"
         ]
     }
     //-------------------------------------------------------------------------//
