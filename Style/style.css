@@ -2,6 +2,10 @@ body {
   background-color: #232024;
 }
 
+img {
+  width: 600px;
+}
+
 .btn {
   border-color: white;
   padding: 15px 32px;
@@ -42,5 +46,19 @@ body {
 .foot {
   color: white;
   font-family: 'Lato', sans-serif;
+}
+
+@media only screen and (max-width: 600px) {
+  .info {
+    width: 300px;
+  }
+  #topic {
+    width: 300px;
+    font-size: 30px;
+  }
+  img {
+    width: 300px;
+    height: 50px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
