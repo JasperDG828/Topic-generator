@@ -6,7 +6,18 @@ let en = {
     "buttonText": "Generate topic",
     "topics": [
         "What is your favorite food?",
-        "What is your (least) favorite subject?"
+        "What is your (least) favorite subject?",
+        "Who is your favorite artist?",
+        "Tell us something your mom doesn't know",
+        "What is your biggest secret?",
+        "French fries or pizza?",
+        "Pineapple on pizza, do or don't?",
+        "When I have nothing to do I ...",
+        "What is your favorite number that doesn't have 69 in it?",
+        "Do you have any guilty pleasure?",
+        "Do you watch anime?",
+        "Favorite fastfood reastaurant",
+        "Would you rather live today with technology from 2000 or live in 2050 with technology from today?"
     ]
 }
 
@@ -19,7 +30,17 @@ let nl = {
         "buttonText": "Genereer onderwerp",
         "topics": [
             "Wat eet je het liefst?",
-            "Wat is jouw (minst) favoriete schoolvak?"
+            "Wat is jouw (minst) favoriete schoolvak?",
+            "Wie is jouw favoriete artiest?",
+            "Wat is jouw grootste geheim?",
+            "Friet of pizza?",
+            "Ananas op pizza, ja of nee?",
+            "Wat doe je wanneer je niks te doen hebt?",
+            "Wat is jouw favoriete nummer buiten 69?",
+            "Heb je een guilty pleasure?",
+            "Kijk je anime?",
+            "Favoriete fastfood keten",
+            "Leef je liever vandaag met technologie van het jaar 2000 of in 2050 met technologie van vandaag?"
         ]
     }
     //-------------------------------------------------------------------------//
