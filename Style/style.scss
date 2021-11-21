@@ -1,0 +1,46 @@
+$purple: rgb(201, 52, 235);
+$gray: rgb(35, 32, 36);
+body {
+    background-color: $gray;
+}
+
+.btn {
+    border-color: white;
+    padding: 15px 32px;
+    background-color: $gray;
+    color: white;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    border-color: $purple;
+    padding: 15px 32px;
+    background-color: $gray;
+    color: $purple;
+}
+
+.title {
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.info {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    width: 600px;
+}
+
+#topic {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    width: 600px;
+    height: 300px;
+    border-color: white;
+    border-style: solid;
+    font-size: 50px;
+}
+
+.foot {
+    color: white;
+    font-family: 'Lato', sans-serif;
+}

@@ -1,0 +1,46 @@
+body {
+  background-color: #232024;
+}
+
+.btn {
+  border-color: white;
+  padding: 15px 32px;
+  background-color: #232024;
+  color: white;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  border-color: #c934eb;
+  padding: 15px 32px;
+  background-color: #232024;
+  color: #c934eb;
+}
+
+.title {
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
+.info {
+  color: white;
+  font-family: 'Lato', sans-serif;
+  width: 600px;
+}
+
+#topic {
+  color: white;
+  font-family: 'Lato', sans-serif;
+  width: 600px;
+  height: 300px;
+  border-color: white;
+  border-style: solid;
+  font-size: 50px;
+}
+
+.foot {
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
