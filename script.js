@@ -2,7 +2,7 @@ let en = {
     "info1": "What if... you're stuck in a conversation, with family, friends (or even your crush)?",
     "info2": "Don't send things like \"So ehm, what now?\" or \"How's the weather?\" Save this website in your bookmarks and generate a topic to talk about everytime the conversation stalls.",
     "topicBefore": "Click on \"Generate topic\"",
-    "foot": "Topic Generator By JasperDG, Concept By LiseVM",
+    "foot": "Topic Generator By JasperDG",
     "buttonText": "Generate topic",
     "topics": [
         "What is your favorite food?",
@@ -30,7 +30,7 @@ let nl = {
         "info1": "Stel: je zit vas in een gesprek met familie, vrienden (of mss zelfs je crush)",
         "info2": "Stuur geen dingen zoals \"Wat nu?\" of \"Hoe is het weer daar?\" Sla deze website op in jouw bladwijzers en genereer een onderwerp iedere keer dat het gesprek stilvalt.",
         "topicBefore": "Klik op \"Genereer onderwerp\"",
-        "foot": "Topic Generator Door JasperDG, Concept door LiseVM",
+        "foot": "Topic Generator Door JasperDG",
         "buttonText": "Genereer onderwerp",
         "topics": [
             "Wat eet je het liefst?",
