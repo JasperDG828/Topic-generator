@@ -14,15 +14,21 @@ let en = {
         "Pineapple on pizza, do or don't?",
         "When I have nothing to do I ...",
         "What is your favorite number that doesn't have 69 in it?",
-        "Do you have any guilty pleasure?",
+        "Do you have any guilty pleasures?",
         "Do you watch anime?",
         "Favorite fastfood reastaurant",
-        "Would you rather live today with technology from 2000 or live in 2050 with technology from today?",
+        "Would you rather live today with technology from 2000 and have everyone use it or live in 2050 with technology from today, but everyone uses 2050-tech?",
         "If you'd be allowed to commit 1 crime without consequences, which crime would it be?",
         "Favorite serie/movie",
         "What do you hate the most about me?",
         "50km by foot or 100km by bike?",
-        "What do you like the most about me?"
+        "What do you like the most about me?",
+        "What's the strangest movie you ever saw?",
+        "Which type of media do you use more? Digital files or physical media?",
+        "Who would you want to be stuck in the elevator with?",
+        "How would phones look in 10 years?",
+        "My favorite hobby is...",
+        "My favorite vacation"
     ]
 }
 
@@ -45,12 +51,18 @@ let nl = {
             "Heb je een guilty pleasure?",
             "Kijk je anime?",
             "Favoriete fastfood keten",
-            "Leef je liever vandaag met technologie van het jaar 2000 of in 2050 met technologie van vandaag?",
+            "Leef je liever vandaag met technologie van het jaar 2000 of in 2050 met technologie van vandaag, maar iedereen gebruikt 2050-tech?",
             "Als je 1 misdaad zou mogen plegen zonder sanctie, welke zou het zijn?",
             "Favoriete serie/film",
             "Wat haat je het meest aan me?",
             "50km te voet of 100km met de fiets?",
-            "Wat vind je leuk aan mij?"
+            "Wat vind je leuk aan mij?",
+            "Wat is de vreemdste film die je ooit zag?",
+            "Welke vorm van data-opslag gebruik je meer? Digitaal of fysieke media(cd, tape,...)",
+            "Met wie zou je vast willen zitten in de lift?",
+            "Hoe zouden telefoons er uitzien binnen 10 jaar?",
+            "Wat is jouw favoriete hobby?",
+            "Mijn favoriete vakantie"
         ]
     }
     //-------------------------------------------------------------------------//
