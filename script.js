@@ -28,7 +28,12 @@ let en = {
         "Who would you want to be stuck in the elevator with?",
         "How would phones look in 10 years?",
         "My favorite hobby is...",
-        "My favorite vacation"
+        "My favorite vacation",
+        "What are the three things you cannot live without?",
+        "What's your favorite way to waste time?",
+        "How do you plan to make the world a better place?",
+        "What is the most useful app on your phone?",
+        "If you could learn the answer to one question about your future, what would the question be?"
     ]
 }
 
@@ -62,7 +67,12 @@ let nl = {
             "Met wie zou je vast willen zitten in de lift?",
             "Hoe zouden telefoons er uitzien binnen 10 jaar?",
             "Wat is jouw favoriete hobby?",
-            "Mijn favoriete vakantie"
+            "Mijn favoriete vakantie",
+            "Zonder welke 3 dingen kan je niet leven?",
+            "Hoe verspil je je tijd het liefst?",
+            "Hoe wil jij de wereld beter maken?",
+            "Wat is de nuttigste app op je gsm?",
+            "Als je 1 vraag zou mogen stellen over je toekomst, welke zou dat zijn?"
         ]
     }
     //-------------------------------------------------------------------------//
