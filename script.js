@@ -2,7 +2,7 @@ let en = {
     "info1": "What if... you're stuck in a conversation, with family, friends (or even your crush)?",
     "info2": "Don't send things like \"So ehm, what now?\" or \"How's the weather?\" Save this website in your bookmarks and generate a topic to talk about everytime the conversation stalls.",
     "topicBefore": "Click on \"Generate topic\"",
-    "foot": "Topic Generator By JasperDG",
+    "foot": "Topic Generator by JasperDG",
     "buttonText": "Generate topic",
     "topics": [
         "What is your favorite food?",
@@ -24,7 +24,7 @@ let en = {
         "50km by foot or 100km by bike?",
         "What do you like the most about me?",
         "What's the strangest movie you ever saw?",
-        "Which type of media do you use more? Digital files or physical media?",
+        "Who is your oldest friend? Where did you meet them?",
         "Who would you want to be stuck in the elevator with?",
         "How would phones look in 10 years?",
         "My favorite hobby is...",
@@ -33,7 +33,13 @@ let en = {
         "What's your favorite way to waste time?",
         "How do you plan to make the world a better place?",
         "What is the most useful app on your phone?",
-        "If you could learn the answer to one question about your future, what would the question be?"
+        "If you could learn the answer to one question about your future, what would the question be?",
+        "What attracts you the most, long hair or short hair?",
+        "What is your favorite thing to eat or drink in the winter?",
+        "What is the scariest thing you've ever experienced?",
+        "Which day will you not forget?",
+        "What is the most frustrating thing about your best friend?",
+        "What's the dumbest thing you've ever done?"
     ]
 }
 
@@ -42,7 +48,7 @@ let nl = {
         "info1": "Stel: je zit vas in een gesprek met familie, vrienden (of mss zelfs je crush)",
         "info2": "Stuur geen dingen zoals \"Wat nu?\" of \"Hoe is het weer daar?\" Sla deze website op in jouw bladwijzers en genereer een onderwerp iedere keer dat het gesprek stilvalt.",
         "topicBefore": "Klik op \"Genereer onderwerp\"",
-        "foot": "Topic Generator Door JasperDG",
+        "foot": "Topic Generator door JasperDG",
         "buttonText": "Genereer onderwerp",
         "topics": [
             "Wat eet je het liefst?",
@@ -63,7 +69,7 @@ let nl = {
             "50km te voet of 100km met de fiets?",
             "Wat vind je leuk aan mij?",
             "Wat is de vreemdste film die je ooit zag?",
-            "Welke vorm van data-opslag gebruik je meer? Digitaal of fysieke media(cd, tape,...)",
+            "Welke vriend(in) ken je al het langste, waar heb je hem/haar ontmoet?",
             "Met wie zou je vast willen zitten in de lift?",
             "Hoe zouden telefoons er uitzien binnen 10 jaar?",
             "Wat is jouw favoriete hobby?",
@@ -72,7 +78,13 @@ let nl = {
             "Hoe verspil je je tijd het liefst?",
             "Hoe wil jij de wereld beter maken?",
             "Wat is de nuttigste app op je gsm?",
-            "Als je 1 vraag zou mogen stellen over je toekomst, welke zou dat zijn?"
+            "Als je 1 vraag zou mogen stellen over je toekomst, welke zou dat zijn?",
+            "Wat trekt je het meeste aan, lang haar of kort haar?",
+            "Wat is je favoriete ding om te eten/drinken in de winter?",
+            "Wat is het engste dat je ooit hebt meegemaakt?",
+            "Welke dag zal je nooit vergeten?",
+            "Wat is het irritantste aan je beste vriend(in)?",
+            "Wat is het domste dat je ooit hebt gedaan?"
         ]
     }
     //-------------------------------------------------------------------------//
